@@ -1,0 +1,137 @@
+{
+    "kmia": [
+        "Miami International Airport",
+        "http://d.liveatc.net/kmia3_atis_arr",
+        "http://d.liveatc.net/kmia3_atis_dep"
+    ],
+    "katl": [
+        "Atlanta Hartsfield-Jackson International Airport",
+        "http://d.liveatc.net/katl_atis_arr",
+        "http://d.liveatc.net/katl_atis_dep"
+    ],
+    "klax": [
+        "Los Angeles International Airport",
+        "http://d.liveatc.net/klax4n_atis_arr",
+        "http://d.liveatc.net/klax4n_atis_dep"
+    ],
+    "kdfw": [
+        "Dallas/Fort Worth International Airport",
+        "http://d.liveatc.net/kdfw1_atis_arr"
+    ],
+    "kjfk": [
+        "John F Kennedy International Airport",
+        "http://d.liveatc.net/kjfk_atis"
+    ],
+    "ksfo": [
+        "San Francisco International Airport",
+        "http://d.liveatc.net/ksfo_atis"
+    ],
+    "klas": [
+        "McCarran International Airport",
+        "http://d.liveatc.net/klas5_atis"
+    ],
+    "kewr": [
+        "Newark Liberty International Airport",
+        "http://d.liveatc.net/kewr3_atis"
+    ],
+    "kmco": [
+        "Orlando International Airport",
+        "http://d.liveatc.net/kmco7"
+    ],
+    "kiah": [
+        "Houston George Bush Intercontinental Airport",
+        "http://d.liveatc.net/kiah2_atis_main",
+        "http://d.liveatc.net/kiah2_atis_const"
+    ],
+    "kmsp": [
+        "Minneapolis St.Paul International Airport",
+        "http://d.liveatc.net/kmsp4_atis_arr",
+        "http://d.liveatc.net/kmsp3_atis_dep"
+    ],
+    "kfll": [
+        "Hollywood International Airport",
+        "http://d.liveatc.net/kfll1_atis"
+    ],
+    "klga": [
+        "LaGuardia Airport",
+        "http://d.liveatc.net/klga_atis_dep"
+    ],
+    "kbwi": [
+        "Baltimore/Washington International Airport",
+        "http://d.liveatc.net/kbwi1_pi_atis"
+    ],
+    "kmdw": [
+        "Chicago Midway International Airport",
+        "http://d.liveatc.net/kmdw_4"
+    ],
+    "kjax": [
+        "Jacksonville International Airport",
+        "http://d.liveatc.net/kjax_atis"
+    ],
+    "kash": [
+        "Nashua Boire Field Airport",
+        "http://d.liveatc.net/kash_atis",
+        "http://d.liveatc.net/kash_murp_atis2"
+    ],
+    "rjtt": [
+        "Tokyo Haneda International Airport",
+        "http://d.liveatc.net/rjtt_atis"
+    ],
+    "cyqb": [
+        "Quebec City Jean Lesage International Airport",
+        "http://d.liveatc.net/cyqb1_atis_en",
+        "http://d.liveatc.net/cyqb2_atis_en"
+    ],
+    "lhbp": [
+        "Budapest Ferihegy International Airport ",
+        "http://d.liveatc.net/lhbp_atis"
+    ],
+    "ksfb": [
+        "Orlando Sanford International Airport",
+        "http://d.liveatc.net/ksfb3_atis"
+    ],
+    "kttd": [
+        "Portland-Troutdale Airport",
+        "http://d.liveatc.net/kttd1_atis"
+    ],
+    "ybtl": [
+        "Townsville Airport",
+        "http://d.liveatc.net/ybtl1_atis"
+    ],
+    "ehgg": [
+        "Groningen Airport Eelde",
+        "http://d.liveatc.net/ehgg1_atis"
+    ],
+    "ktmb": [
+        "Kendall-Tamiami Executive Airport",
+        "http://d.liveatc.net/ktmb1_atis"
+    ],
+    "lwsk": [
+        "Petrovec Skopje Airport",
+        "http://d.liveatc.net/lwsk2_atis"
+    ],
+    "kdal": [
+        "Dallas Love Field Airport",
+        "http://d.liveatc.net/kdal_atis"
+    ],
+    "kmht": [
+        "Manchester Airport",
+        "http://d.liveatc.net/kmht_atis"
+    ],
+    "cyyz": [
+        "Toronto Lester B. Pearson International Airport",
+        "http://d.liveatc.net/cyyz3"
+    ],
+    "ehbk": [
+        "Maastricht Aachen Airport",
+        "http://d.liveatc.net/ehbk1_atis"
+    ],
+    "kpvd": [
+        "Theodore Francis Green State Airport",
+        "http://d.liveatc.net/kpvd_atis"
+    ],
+    "lfpg": [
+        "Roissy Charles-de-Gaulles Airport",
+        "http://d.liveatc.net/lfpg3_dep"
+    ]
+}
