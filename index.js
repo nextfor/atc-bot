@@ -73,7 +73,6 @@ client.on('message', async message => {
   if (message.content == "atc rickroll"){
     message.channel.send("Now rickrolling peoples")
     const rickroll = connection.play(ytdl('https://www.youtube.com/watch?v=dQw4w9WgXcQ', { filter: 'audioonly' }));
-    rickroll.setVolume(0.2)
   }
   if (message.content == "atc stop"){
     connection.play(ytdl('https://www.youtube.com/watch?v=dQw4w9WgXcQ', { filter: 'audioonly' })).destroy()

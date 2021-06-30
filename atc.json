@@ -20,7 +20,7 @@
     ],
     "kjfk": [
         "John F Kennedy International Airport",
-        "http://d.liveatc.net/kjfk_atis"
+        "https://s1-fmt2.liveatc.net/kjfk9_s"
     ],
     "ksfo": [
         "San Francisco International Airport",
@@ -85,6 +85,10 @@
     "lhbp": [
         "Budapest Ferihegy International Airport ",
         "http://d.liveatc.net/lhbp_atis"
+    ],
+    "lfll": [
+        "Lyon-Saint-Exupery Airport",
+        "https://s1-bos.liveatc.net/lfll"
     ],
     "ksfb": [
         "Orlando Sanford International Airport",
