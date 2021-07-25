@@ -1,0 +1,141 @@
+{
+    "cyqb": {
+        "name": "Quebec City Jean Lesage International Airport",
+        "primaryAtc": "http://d.liveatc.net/cyqb1_atis_en",
+        "secondaryAtc": "http://d.liveatc.net/cyqb2_atis_en"
+    },
+    "cyyz": {
+        "name": "Toronto Lester B. Pearson International Airport",
+        "primaryAtc": "http://d.liveatc.net/cyyz3"
+    },
+    "ehbk": {
+        "name": "Maastricht Aachen Airport",
+        "primaryAtc": "http://d.liveatc.net/ehbk1_atis"
+    },
+    "ehgg": {
+        "name": "Groningen Airport Eelde",
+        "primaryAtc": "http://d.liveatc.net/ehgg1_atis"
+    },
+    "kash": {
+        "name": "Nashua Boire Field Airport",
+        "primaryAtc": "http://d.liveatc.net/kash_atis",
+        "secondaryAtc": "http://d.liveatc.net/kash_murp_atis2"
+    },
+    "katl": {
+        "name": "Atlanta Hartsfield-Jackson International Airport",
+        "primaryAtc": "http://d.liveatc.net/katl_atis_arr",
+        "secondaryAtc": "http://d.liveatc.net/katl_atis_dep"
+    },
+    "kbwi": {
+        "name": "Baltimore/Washington International Airport",
+        "primaryAtc": "http://d.liveatc.net/kbwi1_pi_atis"
+    },
+    "kdal": {
+        "name": "Dallas Love Field Airport",
+        "primaryAtc": "http://d.liveatc.net/kdal_atis"
+    },
+    "kdfw": {
+        "name": "Dallas/Fort Worth International Airport",
+        "primaryAtc": "http://d.liveatc.net/kdfw1_atis_arr"
+    },
+    "kewr": {
+        "name": "Newark Liberty International Airport",
+        "primaryAtc": "http://d.liveatc.net/kewr3_atis"
+    },
+    "klas": {
+        "name": "McCarran International Airport",
+        "primaryAtc": "http://d.liveatc.net/klas5_atis"
+    },
+    "klax": {
+        "name": "Los Angeles International Airport",
+        "primaryAtc": "http://d.liveatc.net/klax4n_atis_arr",
+        "secondaryAtc": "http://d.liveatc.net/klax4n_atis_dep"
+    },
+    "klga": {
+        "name": "LaGuardia Airport",
+        "primaryAtc": "http://d.liveatc.net/klga_atis_dep"
+    },
+    "kmco": {
+        "name": "Orlando International Airport",
+        "primaryAtc": "http://d.liveatc.net/kmco7"
+    },
+    "kmdw": {
+        "name": "Chicago Midway International Airport",
+        "primaryAtc": "http://d.liveatc.net/kmdw_4"
+    },
+    "kmht": {
+        "name": "Manchester Airport",
+        "primaryAtc": "http://d.liveatc.net/kmht_atis"
+    },
+    "kmia": {
+        "name": "Miami International Airport",
+        "primaryAtc": "http://d.liveatc.net/kmia3_atis_arr",
+        "secondaryAtc": "http://d.liveatc.net/kmia3_atis_dep"
+    },
+    "kmsp": {
+        "name": "Minneapolis St.Paul International Airport",
+        "primaryAtc": "http://d.liveatc.net/kmsp4_atis_arr",
+        "secondaryAtc": "http://d.liveatc.net/kmsp3_atis_dep"
+    },
+    "kjfk": {
+        "name": "John F Kennedy International Airport",
+        "primaryAtc": "https://s1-fmt2.liveatc.net/kjfk9_s"
+    },
+    "ksfo": {
+        "name": "San Francisco International Airport",
+        "primaryAtc": "http://d.liveatc.net/ksfo_atis"
+    },
+    "kiah": {
+        "name": "Houston George Bush Intercontinental Airport",
+        "primaryAtc": "http://d.liveatc.net/kiah2_atis_main",
+        "secondaryAtc": "http://d.liveatc.net/kiah2_atis_const"
+    },
+    "kfll": {
+        "name": "Hollywood International Airport",
+        "primaryAtc": "http://d.liveatc.net/kfll1_atis"
+    },
+    "kjax": {
+        "name": "Jacksonville International Airport",
+        "primaryAtc": "http://d.liveatc.net/kjax_atis"
+    },
+    "rjtt": {
+        "name": "Tokyo Haneda International Airport",
+        "primaryAtc": "http://d.liveatc.net/rjtt_atis"
+    },
+    "ksfb": {
+        "name": "Orlando Sanford International Airport",
+        "primaryAtc": "http://d.liveatc.net/ksfb3_atis"
+    },
+    "kttd": {
+        "name": "Portland-Troutdale Airport",
+        "primaryAtc": "http://d.liveatc.net/kttd1_atis"
+    },
+    "ybtl": {
+        "name": "Townsville Airport",
+        "primaryAtc": "http://d.liveatc.net/ybtl1_atis"
+    },
+    "ktmb": {
+        "name": "Kendall-Tamiami Executive Airport",
+        "primaryAtc": "http://d.liveatc.net/ktmb1_atis"
+    },
+    "lfll": {
+        "name": "Lyon-Saint-Exupery Airport",
+        "primaryAtc": "https://s1-bos.liveatc.net/lfll"
+    },
+    "lfpg": {
+        "name": "Roissy Charles-de-Gaulles Airport",
+        "primaryAtc": "http://d.liveatc.net/lfpg3_dep"
+    },
+    "lhbp": {
+        "name": "Budapest Ferihegy International Airport ",
+        "primaryAtc": "http://d.liveatc.net/lhbp_atis"
+    },
+    "lwsk": {
+        "name": "Petrovec Skopje Airport",
+        "primaryAtc": "http://d.liveatc.net/lwsk2_atis"
+    },
+    "kpvd": {
+        "name": "Theodore Francis Green State Airport",
+        "primaryAtc": "http://d.liveatc.net/kpvd_atis"
+    }
+}

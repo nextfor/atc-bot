@@ -1,4 +1,22 @@
 {
+
+    "cyqb": [
+        "Quebec City Jean Lesage International Airport",
+        "http://d.liveatc.net/cyqb1_atis_en",
+        "http://d.liveatc.net/cyqb2_atis_en"
+    ],
+    "cyyz": [
+        "Toronto Lester B. Pearson International Airport",
+        "http://d.liveatc.net/cyyz3"
+    ],
+    "ehbk": [
+        "Maastricht Aachen Airport",
+        "http://d.liveatc.net/ehbk1_atis"
+    ],
+    "ehgg": [
+        "Groningen Airport Eelde",
+        "http://d.liveatc.net/ehgg1_atis"
+    ],
     "kmia": [
         "Miami International Airport",
         "http://d.liveatc.net/kmia3_atis_arr",
@@ -77,19 +95,6 @@
         "Tokyo Haneda International Airport",
         "http://d.liveatc.net/rjtt_atis"
     ],
-    "cyqb": [
-        "Quebec City Jean Lesage International Airport",
-        "http://d.liveatc.net/cyqb1_atis_en",
-        "http://d.liveatc.net/cyqb2_atis_en"
-    ],
-    "lhbp": [
-        "Budapest Ferihegy International Airport ",
-        "http://d.liveatc.net/lhbp_atis"
-    ],
-    "lfll": [
-        "Lyon-Saint-Exupery Airport",
-        "https://s1-bos.liveatc.net/lfll"
-    ],
     "ksfb": [
         "Orlando Sanford International Airport",
         "http://d.liveatc.net/ksfb3_atis"
@@ -102,13 +107,21 @@
         "Townsville Airport",
         "http://d.liveatc.net/ybtl1_atis"
     ],
-    "ehgg": [
-        "Groningen Airport Eelde",
-        "http://d.liveatc.net/ehgg1_atis"
-    ],
     "ktmb": [
         "Kendall-Tamiami Executive Airport",
         "http://d.liveatc.net/ktmb1_atis"
+    ],
+    "lfll": [
+        "Lyon-Saint-Exupery Airport",
+        "https://s1-bos.liveatc.net/lfll"
+    ],
+    "lfpg": [
+        "Roissy Charles-de-Gaulles Airport",
+        "http://d.liveatc.net/lfpg3_dep"
+    ],
+    "lhbp": [
+        "Budapest Ferihegy International Airport ",
+        "http://d.liveatc.net/lhbp_atis"
     ],
     "lwsk": [
         "Petrovec Skopje Airport",
@@ -122,20 +135,8 @@
         "Manchester Airport",
         "http://d.liveatc.net/kmht_atis"
     ],
-    "cyyz": [
-        "Toronto Lester B. Pearson International Airport",
-        "http://d.liveatc.net/cyyz3"
-    ],
-    "ehbk": [
-        "Maastricht Aachen Airport",
-        "http://d.liveatc.net/ehbk1_atis"
-    ],
     "kpvd": [
         "Theodore Francis Green State Airport",
         "http://d.liveatc.net/kpvd_atis"
-    ],
-    "lfpg": [
-        "Roissy Charles-de-Gaulles Airport",
-        "http://d.liveatc.net/lfpg3_dep"
     ]
 }
