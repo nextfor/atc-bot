@@ -7,6 +7,12 @@ Once you installed everything, create a file named .env with the following conte
 ```
 TOKEN=<yourbottoken>
 ```
+Now set your channel id if you want only one channel to accept the bot (in resources.json) :
+```
+"atcChannel": <your channel id>
+```
+>Note, left blank if you don't want to apply any restriction  
+
 Then, install dependencies with this command in the root folder :
 ```
 npm i
