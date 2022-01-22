@@ -38,7 +38,7 @@ const connectEmbed = new Discord.MessageEmbed()
 const disconnectEmbed = new Discord.MessageEmbed()
     .setColor(resources.embed.color)
     .setTitle('Disconnected from your channel')
-    .addFields({ name: '**To reconnect :**', value: '*atc connect*' }, )
+    .addFields({ name: '**To reconnect :**', value: '*atc connect*' })
     .setThumbnail('https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/no-entry_26d4.png')
     .setTimestamp()
     .setFooter(resources.embed.footer);
@@ -54,7 +54,7 @@ const stopEmbed = new Discord.MessageEmbed()
 client.on('message', async message => {
     if (message.content.startsWith('atc')) {
         if (message.content === 'atc connect') {
-            if (message.member.voice.channel.id == resources.atcChannel && message.member.voice.channel) {
+            if (message.member.voice.channel && (message.member.voice.channel.id != undefined && message.member.voice.channel.id == resources.atcChannel) || message.member.voice.channel) {
                 connection = await message.member.voice.channel.join();
                 message.channel.send(connectEmbed);
             } else {
@@ -83,8 +83,9 @@ client.on('message', async message => {
             message.channel.send(disconnectEmbed)
             message.member.voice.channel.leave()
         }
-        if (message.content == 'atc info') {
-            const embed = new Discord.MessageEmbed()
+        if (message.content == 'atc info' || message.content == 'atc help') {
+            // const embed = new Discord.MessageEmbed()
+            // TODO : Help embed
         }
     }
 });
