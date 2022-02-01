@@ -4,7 +4,7 @@
   "description": "Discord bot that allows you to listen to ATC (Air Traffic Control) in a Discord Channel.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"npm test is not supported by atc-bot, use npm start instead\" && exit 1",
     "start": "node index.js"
   },
   "keywords": [
@@ -18,11 +18,10 @@
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
-    "discord.js": "^12.2.0",
+    "@discordjs/voice": "^0.8.0",
+    "discord.js": "^13.6.0",
     "dotenv": "^10.0.0",
     "ffmpeg-static": "^4.2.6",
-    "got": "^11.5.2",
-    "node-ipc": "^9.1.4",
-    "ytdl-core": "^3.2.1"
+    "libsodium-wrappers": "^0.7.9"
   }
 }
