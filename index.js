@@ -1,8 +1,5 @@
 const Discord = require('discord.js');
-const EventEmitter = require('events');
 const { OpusEncoder } = require('@discordjs/opus');
-const ytdl = require('ytdl-core');
-const got = require('got');
 
 require('dotenv').config()
 
@@ -23,7 +20,7 @@ client.on('ready', () => {
 const undefinedEmbed = new Discord.MessageEmbed()
     .setColor(resources.embed.color)
     .setThumbnail('https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/no-entry-sign_1f6ab.png')
-    .setTitle("This airport doesn't exist, retry")
+    .setTitle("This airport doesn't exist, try again")
     .setDescription("Currently, these airports are available : " + "**" + Object.keys(atc).join(" - ") + "**")
     .setTimestamp()
     .setFooter(resources.embed.footer);
@@ -80,6 +77,7 @@ client.on('message', async message => {
             }
         }
         if (message.content == "atc disconnect" || message.content == "atc leave") {
+            message.member.voice.channel.
             message.channel.send(disconnectEmbed)
             message.member.voice.channel.leave()
         }
